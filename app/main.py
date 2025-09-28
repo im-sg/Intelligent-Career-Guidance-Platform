@@ -1,9 +1,6 @@
-# app/main.py
-
 from fastapi import FastAPI
+from app.api import upload_resume
 
 app = FastAPI()
 
-@app.get("/")
-def read_root():
-    return {"message": "Intelligent Career Guidance Platform is running 🚀"}
+app.include_router(upload_resume.router)
