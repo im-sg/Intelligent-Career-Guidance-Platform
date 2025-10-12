@@ -1,0 +1,174 @@
+{
+  "job_roles": [
+    {
+      "id": 1,
+      "title": "AI Engineer",
+      "category": "AI & ML",
+      "description": "Design and develop AI systems and applications",
+      "required_skills": {
+        "Python": 4,
+        "Machine Learning": 4,
+        "Deep Learning": 4,
+        "TensorFlow": 3,
+        "PyTorch": 3,
+        "NLP": 3,
+        "Computer Vision": 3
+      },
+      "experience_level": "intermediate",
+      "industry": "Technology"
+    },
+    {
+      "id": 2,
+      "title": "Machine Learning Engineer",
+      "category": "AI & ML",
+      "description": "Build and deploy machine learning models at scale",
+      "required_skills": {
+        "Python": 5,
+        "Machine Learning": 5,
+        "TensorFlow": 4,
+        "PyTorch": 4,
+        "Docker": 3,
+        "AWS": 3,
+        "SQL": 3
+      },
+      "experience_level": "intermediate",
+      "industry": "Technology"
+    },
+    {
+      "id": 3,
+      "title": "Data Scientist",
+      "category": "Data & Analytics",
+      "description": "Analyze complex data and build predictive models",
+      "required_skills": {
+        "Python": 4,
+        "Machine Learning": 4,
+        "SQL": 4,
+        "Statistics": 5,
+        "Data Visualization": 4,
+        "Pandas": 4,
+        "R": 3
+      },
+      "experience_level": "intermediate",
+      "industry": "Technology"
+    },
+    {
+      "id": 4,
+      "title": "Data Engineer",
+      "category": "Data & Analytics",
+      "description": "Design and maintain data pipelines and infrastructure",
+      "required_skills": {
+        "Python": 4,
+        "SQL": 5,
+        "ETL": 4,
+        "Apache Spark": 4,
+        "Airflow": 3,
+        "AWS": 4,
+        "Docker": 3
+      },
+      "experience_level": "intermediate",
+      "industry": "Technology"
+    },
+    {
+      "id": 5,
+      "title": "DevOps/Cloud Engineer",
+      "category": "Infrastructure",
+      "description": "Manage cloud infrastructure and CI/CD pipelines",
+      "required_skills": {
+        "AWS": 4,
+        "Docker": 4,
+        "Kubernetes": 4,
+        "Linux": 4,
+        "Python": 3,
+        "Terraform": 3,
+        "Jenkins": 3
+      },
+      "experience_level": "intermediate",
+      "industry": "Technology"
+    },
+    {
+      "id": 6,
+      "title": "Cybersecurity Engineer",
+      "category": "Security",
+      "description": "Protect systems and networks from security threats",
+      "required_skills": {
+        "Network Security": 4,
+        "Penetration Testing": 4,
+        "Python": 3,
+        "Linux": 4,
+        "Security Tools": 4,
+        "Cryptography": 3,
+        "Risk Assessment": 4
+      },
+      "experience_level": "intermediate",
+      "industry": "Technology"
+    },
+    {
+      "id": 7,
+      "title": "Backend Developer",
+      "category": "Software Development",
+      "description": "Build server-side applications and APIs",
+      "required_skills": {
+        "Python": 4,
+        "Node.js": 4,
+        "REST API": 4,
+        "SQL": 4,
+        "MongoDB": 3,
+        "Docker": 3,
+        "Git": 4
+      },
+      "experience_level": "intermediate",
+      "industry": "Technology"
+    },
+    {
+      "id": 8,
+      "title": "Full Stack Developer",
+      "category": "Software Development",
+      "description": "Develop both frontend and backend applications",
+      "required_skills": {
+        "JavaScript": 4,
+        "React": 4,
+        "Node.js": 4,
+        "Python": 3,
+        "SQL": 3,
+        "HTML/CSS": 4,
+        "Git": 4
+      },
+      "experience_level": "intermediate",
+      "industry": "Technology"
+    },
+    {
+      "id": 9,
+      "title": "Frontend Developer",
+      "category": "Software Development",
+      "description": "Create user interfaces and web applications",
+      "required_skills": {
+        "JavaScript": 5,
+        "React": 4,
+        "HTML/CSS": 5,
+        "TypeScript": 3,
+        "Vue": 3,
+        "Angular": 3,
+        "Responsive Design": 4
+      },
+      "experience_level": "intermediate",
+      "industry": "Technology"
+    },
+    {
+      "id": 10,
+      "title": "Python Developer",
+      "category": "Software Development",
+      "description": "Develop applications and scripts using Python",
+      "required_skills": {
+        "Python": 5,
+        "Django": 4,
+        "Flask": 4,
+        "REST API": 4,
+        "SQL": 3,
+        "Git": 4,
+        "Testing": 3
+      },
+      "experience_level": "intermediate",
+      "industry": "Technology"
+    }
+  ]
+}

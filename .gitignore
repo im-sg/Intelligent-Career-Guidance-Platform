@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+career_platform_env/
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# (If you have a frontend)
+node_modules/
+dist/

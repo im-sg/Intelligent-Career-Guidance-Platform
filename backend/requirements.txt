@@ -1,0 +1,37 @@
+# Web Framework
+fastapi==0.115.5
+uvicorn==0.32.1
+
+# Database
+sqlalchemy==2.0.35
+pydantic==2.9.2
+
+# File Upload
+python-multipart==0.0.6
+
+# Authentication
+bcrypt==4.1.2
+python-jose[cryptography]==3.3.0
+passlib==1.7.4
+
+# NLP & ML
+#spacy==3.7.2
+scikit-learn==1.5.2
+pandas==2.2.3
+numpy>=2.0.0  # Updated for Python 3.13 compatibility
+
+# File Processing
+PyPDF2==3.0.1
+python-docx==1.1.0
+
+# Text Processing
+nltk==3.8.1
+
+# ML Model Storage
+joblib==1.4.2
+
+# Utilities
+python-dotenv==1.0.0
+
+# Hugging Face Datasets
+datasets==2.14.5
