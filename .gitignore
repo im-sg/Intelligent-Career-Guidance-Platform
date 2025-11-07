@@ -38,3 +38,4 @@ backend/career_ai.db
 documentation/
 backend/app/ml_models/saved_models/*.joblib
 backend/app/ml_models/saved_models/*.joblib
+backend/app/ml_models/saved_models/role_matcher.joblib
