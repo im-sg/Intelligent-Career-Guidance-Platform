@@ -13,6 +13,26 @@ career_platform_env/
 .vscode/
 .idea/
 
-# (If you have a frontend)
+# Frontend
 node_modules/
 dist/
+build/
+
+# Backend Data - Resume uploads and processed data
+backend/uploads/
+backend/data/collected_resumes/
+backend/data/processed_resumes.json
+backend/data/resume_metadata.csv
+backend/data/skills/
+backend/data/raw/
+backend/training_data/
+backend/scripts/process_all_resumes.py
+backend/scripts/seed_job_roles.py
+backend/archive
+
+# Database
+backend/*.db
+backend/career_ai.db
+
+# Documentation (if not needed in repo)
+documentation/
