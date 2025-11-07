@@ -37,3 +37,4 @@ backend/career_ai.db
 # Documentation (if not needed in repo)
 documentation/
 backend/app/ml_models/saved_models/*.joblib
+backend/app/ml_models/saved_models/*.joblib
