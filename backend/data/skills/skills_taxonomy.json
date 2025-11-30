@@ -1,0 +1,186 @@
+{
+  "programming_languages": [
+    "Python", "Java", "JavaScript", "C++", "C#", "Go", "Ruby", "PHP",
+    "Swift", "Kotlin", "TypeScript", "Scala", "R", "Rust", "Bash",
+    "Shell Scripting", "PowerShell", "Groovy", "Perl"
+  ],
+  "web_technologies": {
+    "frontend": [
+      "HTML", "CSS", "JavaScript", "React", "Angular", "Vue.js",
+      "Next.js", "Svelte", "jQuery", "Bootstrap", "Tailwind CSS",
+      "Material-UI", "Responsive Design", "Web Components", "Redux",
+      "Webpack", "Vite"
+    ],
+    "backend": [
+      "Node.js", "Express.js", "Django", "Flask", "FastAPI",
+      "Spring Boot", "ASP.NET", "ASP.NET Core", "Ruby on Rails",
+      "Laravel", "Nest.js", "Koa.js"
+    ],
+    "apis": [
+      "REST API", "GraphQL", "gRPC", "WebSocket", "API Design",
+      "Swagger", "OpenAPI", "Postman"
+    ]
+  },
+  "databases": {
+    "sql": [
+      "SQL", "MySQL", "PostgreSQL", "Oracle SQL", "Microsoft SQL Server",
+      "MariaDB", "SQLite", "Database Design", "Query Optimization",
+      "Stored Procedures", "Database Performance Tuning"
+    ],
+    "nosql": [
+      "MongoDB", "Redis", "Cassandra", "DynamoDB", "Couchbase",
+      "Neo4j", "Elasticsearch", "Apache HBase"
+    ]
+  },
+  "data_science_ml": {
+    "ml_frameworks": [
+      "Machine Learning", "Deep Learning", "TensorFlow", "PyTorch",
+      "Scikit-learn", "Keras", "XGBoost", "LightGBM", "CatBoost",
+      "Hugging Face", "MLflow", "Kubeflow"
+    ],
+    "data_processing": [
+      "Pandas", "NumPy", "PySpark", "Apache Spark", "Dask",
+      "Data Wrangling", "Data Cleaning", "ETL", "Data Pipeline"
+    ],
+    "analytics": [
+      "Statistics", "Data Analysis", "Data Visualization",
+      "Tableau", "Power BI", "Matplotlib", "Seaborn", "Plotly",
+      "D3.js", "Statistical Analysis", "A/B Testing"
+    ],
+    "ai_specializations": [
+      "Natural Language Processing", "NLP", "Computer Vision",
+      "Reinforcement Learning", "Generative AI", "LLM",
+      "Time Series Analysis", "Neural Networks", "CNN", "RNN",
+      "Transformer Models"
+    ]
+  },
+  "cloud_platforms": {
+    "aws": [
+      "AWS", "Amazon Web Services", "EC2", "S3", "Lambda", "RDS",
+      "CloudWatch", "IAM", "VPC", "ECS", "EKS", "CloudFormation",
+      "Elastic Beanstalk", "API Gateway", "SQS", "SNS"
+    ],
+    "azure": [
+      "Azure", "Microsoft Azure", "Azure DevOps", "Azure Functions",
+      "Azure SQL", "Azure Kubernetes Service", "AKS"
+    ],
+    "gcp": [
+      "GCP", "Google Cloud Platform", "BigQuery", "Cloud Functions",
+      "Cloud Run", "GKE", "Cloud Storage"
+    ],
+    "multi_cloud": [
+      "Multi-Cloud", "Hybrid Cloud", "Cloud Migration",
+      "Cloud Architecture", "Cloud Security", "Cloud Cost Optimization"
+    ]
+  },
+  "devops_sre": {
+    "containerization": [
+      "Docker", "Kubernetes", "Helm", "Docker Compose",
+      "Container Security", "Container Orchestration", "Podman",
+      "Docker Swarm"
+    ],
+    "ci_cd": [
+      "CI/CD", "Jenkins", "GitLab CI", "GitHub Actions",
+      "CircleCI", "Travis CI", "Azure Pipelines", "Bamboo",
+      "ArgoCD", "Flux", "Spinnaker", "Pipeline Automation"
+    ],
+    "infrastructure_as_code": [
+      "Terraform", "Ansible", "Puppet", "Chef", "CloudFormation",
+      "Pulumi", "Infrastructure as Code", "IaC",
+      "Configuration Management"
+    ],
+    "monitoring_observability": [
+      "Grafana", "Prometheus", "Datadog", "New Relic",
+      "AppDynamics", "Splunk", "ELK Stack", "Elasticsearch",
+      "Logstash", "Kibana", "Zabbix", "Nagios", "CloudWatch",
+      "Alerting", "Log Management", "APM", "Distributed Tracing",
+      "Jaeger", "OpenTelemetry"
+    ],
+    "sre_practices": [
+      "Site Reliability Engineering", "SRE", "High Availability",
+      "Disaster Recovery", "Incident Management", "SLO", "SLI",
+      "SLA", "Capacity Planning", "Performance Optimization",
+      "Chaos Engineering", "Reliability", "MTTR", "MTBF",
+      "On-Call", "Post-Mortem Analysis"
+    ]
+  },
+  "version_control": [
+    "Git", "GitHub", "GitLab", "Bitbucket", "SVN", "Mercurial",
+    "Git Flow", "GitOps", "Code Review", "Pull Requests"
+  ],
+  "operating_systems": [
+    "Linux", "Unix", "Ubuntu", "RHEL", "Red Hat", "CentOS",
+    "Debian", "Windows Server", "macOS", "System Administration",
+    "Shell Scripting", "Bash Scripting", "Linux Administration"
+  ],
+  "security": {
+    "general": [
+      "Cybersecurity", "Information Security", "Security",
+      "Security Best Practices", "Security Hardening"
+    ],
+    "network_security": [
+      "Network Security", "Firewall", "VPN", "IDS", "IPS",
+      "Network Protocols", "TCP/IP", "DNS", "Load Balancers",
+      "Nginx", "HAProxy"
+    ],
+    "application_security": [
+      "Application Security", "OWASP", "Penetration Testing",
+      "Vulnerability Assessment", "Security Scanning",
+      "SAST", "DAST", "Container Security"
+    ],
+    "identity_access": [
+      "IAM", "Identity Management", "OAuth", "SAML", "SSO",
+      "MFA", "RBAC", "Access Control", "Authentication",
+      "Authorization"
+    ],
+    "compliance": [
+      "Compliance", "GDPR", "HIPAA", "SOC2", "PCI-DSS",
+      "Risk Assessment", "Security Audit", "Cryptography",
+      "Encryption"
+    ],
+    "security_tools": [
+      "Security Tools", "Vault", "HashiCorp Vault",
+      "Aqua Security", "Twistlock", "Snyk", "SonarQube",
+      "OWASP ZAP", "Burp Suite", "Metasploit", "Nmap",
+      "Wireshark"
+    ]
+  },
+  "methodologies_practices": [
+    "Agile", "Scrum", "Kanban", "DevOps", "GitOps", "Lean",
+    "SAFe", "Waterfall", "Test-Driven Development", "TDD",
+    "Behavior-Driven Development", "BDD", "Continuous Integration",
+    "Continuous Deployment", "Continuous Delivery"
+  ],
+  "software_architecture": [
+    "Microservices", "Service-Oriented Architecture", "SOA",
+    "Monolithic Architecture", "Event-Driven Architecture",
+    "Serverless", "System Design", "Distributed Systems",
+    "Scalability", "Design Patterns", "Architecture Patterns",
+    "API Design", "Domain-Driven Design", "DDD"
+  ],
+  "testing_qa": [
+    "Testing", "Unit Testing", "Integration Testing",
+    "End-to-End Testing", "Test Automation", "Selenium",
+    "Jest", "Mocha", "Pytest", "JUnit", "TestNG",
+    "Load Testing", "Performance Testing", "JMeter",
+    "Gatling", "Quality Assurance", "QA"
+  ],
+  "big_data": [
+    "Big Data", "Hadoop", "Apache Spark", "Apache Kafka",
+    "Apache Flink", "Hive", "Pig", "HBase", "MapReduce",
+    "Data Lake", "Data Warehouse", "Snowflake", "Databricks",
+    "Airflow", "Apache Airflow", "Luigi", "Prefect"
+  ],
+  "collaboration_tools": [
+    "Jira", "Confluence", "Slack", "Microsoft Teams",
+    "Trello", "Asana", "Monday.com", "Notion",
+    "ServiceNow", "PagerDuty"
+  ],
+  "soft_skills": [
+    "Leadership", "Team Leadership", "Mentoring", "Training",
+    "Communication", "Collaboration", "Problem Solving",
+    "Critical Thinking", "Project Management", "Stakeholder Management",
+    "Documentation", "Technical Writing", "Presentation Skills",
+    "Cross-Functional Collaboration", "Root Cause Analysis"
+  ]
+}
